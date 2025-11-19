@@ -18,7 +18,7 @@ Comprehensive REST API documentation for core e‑commerce features such as auth
 * Authentication
 * Error codes
 
-➡️ **Link:** *API-Documentation.md (to be added)*
+➡️ **Link:** [API-Documentation.md](API-Documentation.md)
 
 ---
 
