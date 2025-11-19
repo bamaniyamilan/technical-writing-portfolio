@@ -33,7 +33,7 @@ Detailed, developer‑oriented documentation covering:
 * Rate limiting
 * Advanced error handling
 
-➡️ **Link:** *Advanced-API-Docs.md (to be added)*
+➡️ **Link:** [Advanced-API-Docs.md](Advanced-API-Docs.md)
 
 ---
 
@@ -47,7 +47,7 @@ Includes:
 * Understanding the dashboard
 * Making your first API call
 
-➡️ **Link:** *Quickstart-Guide.md (to be added)*
+➡️ **Link:** [Quickstart-Guide.md](Quickstart-Guide.md)
 
 ---
 
@@ -62,7 +62,7 @@ Complete end-user manual covering the entire shopping flow:
 * Payment flow
 * Tracking orders
 
-➡️ **Link:** *User-Manual.md (to be added)*
+➡️ **Link:** [User-Manual.md](User-Manual.md)
 
 ---
 
@@ -75,7 +75,7 @@ Versioned release notes for the e‑commerce application capturing:
 * Bug fixes
 * Known issues
 
-➡️ **Link:** *Release-Notes.md (to be added)*
+➡️ **Link:** [Release-Notes.md](Release-Notes.md)
 
 ---
 
@@ -89,22 +89,7 @@ Examples:
 * Cart not updating
 * API authentication issues
 
-➡️ **Link:** *Troubleshooting-Guide.md (to be added)*
-
----
-
-## 📌 About This Portfolio
-
-This portfolio demonstrates:
-
-* API documentation skills
-* User‑focused documentation
-* SaaS documentation structures
-* Developer‑oriented writing
-* Clear information architecture
-* Professional formatting
-
-All documents follow industry‑standard best practices.
+➡️ **Link:** [Troubleshooting-Guide.md](Troubleshooting-Guide.md)
 
 ---
 
